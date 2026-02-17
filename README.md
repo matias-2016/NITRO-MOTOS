@@ -1,8 +1,8 @@
 <p align="center">
-  <img src=logo.png alt="Logo del proyecto" width="200" />
+  <img src=logo.nitro.png alt="Logo del proyecto" width="200" />
 </p>
 
-# **Nombre del Proyecto**
+# **NITRO-MOTOS**
 
 Una descripción clara y breve sobre lo que hace tu proyecto, por qué existe y qué problema soluciona.
 
