@@ -1,17 +1,21 @@
+# NITRO MOTOS
+<!-- Logo del proyecto -->
 <p align="center">
   <img src=logo.nitro.png alt="Logo del proyecto" width="200" />
 </p>
 
-# **NITRO-MOTOS**
+# **Nombre del Proyecto**
 
 Una descripción clara y breve sobre lo que hace tu proyecto, por qué existe y qué problema soluciona.
 
 ---
 
 ## Descripción
-Nitro motos es una empresa que se dedica a la venta de motos y también al control de inventario de los vehículos disponibles. Nuestro trabajo es ofrecer motos en buen estado, a precios accesibles y llevar un registro organizado de cada unidad para saber cuáles están disponibles y cuáles ya fueron vendidas.
+es una empresa que se dedica a la venta de motos y también al control de inventario de los vehículos disponibles. Nuestro trabajo es ofrecer motos en buen estado, a precios accesibles y llevar un registro organizado de cada unidad para saber cuáles están disponibles y cuáles ya fueron vendidas.
 
 Nuestro objetivo es ayudar a los clientes a encontrar la moto que necesitan, mientras mantenemos un control claro y ordenado del inventario para que todo el proceso sea más fácil y seguro.
+trabajamos con responsabilidad y muchas ganas de aprender cada día más sobre el manejo de motos y la organización del inventario, buscando siempre brindar un buen servicio y cumplir con lo que prometemos.
+---
 
 ## Empezando
 
@@ -26,4 +30,3 @@ cd tu-repo
 
 # instalar dependencias (si aplica)
 npm install
-# NITRO-MOTOS
