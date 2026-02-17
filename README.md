@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=logo.nitro.png alt="Logo del proyecto" width="200" />
+  <img src= logo.nitro.png alt="Logo del proyecto" width="200" />
 </p>
 
 # **NITRO-MOTOS**
