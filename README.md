@@ -1,17 +1,20 @@
+# Iron-hourse-motor
+<!-- Logo del proyecto -->
 <p align="center">
-  <img src= logo.nitro.png alt="Logo del proyecto" width="200" />
+  <img src=logo.png alt="Logo del proyecto" width="200" />
 </p>
 
-# **NITRO-MOTOS**
+# **Nombre del Proyecto**
 
 Una descripción clara y breve sobre lo que hace tu proyecto, por qué existe y qué problema soluciona.
 
 ---
 
 ## Descripción
-Nitro motos es una empresa que se dedica a la venta de motos y también al control de inventario de los vehículos disponibles. Nuestro trabajo es ofrecer motos en buen estado, a precios accesibles y llevar un registro organizado de cada unidad para saber cuáles están disponibles y cuáles ya fueron vendidas.
-
-Nuestro objetivo es ayudar a los clientes a encontrar la moto que necesitan, mientras mantenemos un control claro y ordenado del inventario para que todo el proceso sea más fácil y seguro.
+Iron Horse Auto es una empresa dedicada a la compra, venta y comercialización de vehículos, enfocada en ofrecer autos de calidad, precios justos y un servicio confiable.
+Nuestro objetivo es conectar a cada cliente con el vehículo ideal, garantizando procesos claros, seguros y eficientes.
+En Iron Horse Auto trabajamos con compromiso, transparencia y pasión por los motores, construyendo relaciones basadas en la confianza y la satisfacción del cliente.
+---
 
 ## Empezando
 
@@ -26,4 +29,3 @@ cd tu-repo
 
 # instalar dependencias (si aplica)
 npm install
-# NITRO-MOTOS
